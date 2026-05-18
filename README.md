@@ -1,7 +1,7 @@
-﻿~# VITS-Finetuning~
+﻿# ~VITS-Finetuning~
 # DE-VITS Finetuning
 
-(I was going to use this as a reference for Lunar-TTS but my dumbass realized it is just some unreleased codebase that some anon said on 4chan in 2023, so now I'll just not make it shit lets see where it goes)
+## (I was going to use this as a reference for Lunar-TTS but my dumbass realized it is just some unreleased codebase that some Anon ~noxfag~ said on 4chan in 2023, so now I'll just not make it shit, let's see where it goes)
 
 
 This repo presents an efficiently finetuneable (on Colab) version of a heavily modified VITS model.
